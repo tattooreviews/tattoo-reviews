@@ -1,0 +1,29 @@
+{
+  "name": "tattoo-reviews",
+  "version": "1.0.0",
+  "description": "Tattoo.Reviews",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "build": "echo 'No build step yet'",
+    "test": "echo \"No tests configured yet\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tattooreviews/tattoo-reviews.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tattooreviews/tattoo-reviews/issues"
+  },
+  "homepage": "https://github.com/tattooreviews/tattoo-reviews#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
