@@ -1,0 +1,14 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables (contains sensitive credentials)
+.env
+
+# Logs & Debug files
+logs/
+*.log
+
+# System-specific files
+.DS_Store
+.vscode/
+.idea/
